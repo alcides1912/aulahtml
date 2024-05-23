@@ -1,0 +1,31 @@
+#inicio{
+    color:rgb(2, 90, 7);
+}
+#p1{
+    color:rgb(24, 8, 255);
+}
+#p2{
+    color:rgb(247, 32, 150);
+}
+#p3{
+    color:rgb(164, 13, 202);
+}
+body{
+    background-color: rgb(135, 204, 146);
+    margin: 0;
+    width: 600px;
+    text-align: center;
+}
+
+.primeira-div{
+    background-color: orange;
+    width: 100px;
+    float: left;
+}
+#corpo-pagina{
+    margin-top: 10px;
+
+}
+.imagens{
+    border: 2px solid black;
+}

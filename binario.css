@@ -1,0 +1,9 @@
+.conversão{
+    background-color: black;
+    color: rgb(162, 205, 243);
+    font-family: 'Franklin Gothic Medium';
+}
+.converter:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(23, 144, 250);
+}
